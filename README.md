@@ -18,7 +18,7 @@
 
 - 🔭 &nbsp; ⇢ &nbsp; Learning Web Development👩‍💻
 - 📋 &nbsp; ⇢ &nbsp; Practising DS and Algorithms on [Leetcode](https://leetcode.com/satendrakumar01/) ⌛
-<!-- - 🤝 &nbsp; ⇢ &nbsp; Looking forward to collaborate on Projects and Open Source🎉 -->
+- 🤝 &nbsp; ⇢ &nbsp; Looking forward to collaborate on Projects and Open Source🎉
 - 🙋‍♂️ &nbsp; ⇢ &nbsp; Discuss your ideas with me [here](https://github.com/satendrakumar01/issues)
 
 
