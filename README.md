@@ -2,7 +2,7 @@
 
 <br>
 <br>
-<p align="center"><a href="#"><img height = "250" width="400px"alt="Hello, I'm Fyka, I do open source!" src="https://cloud-9gtzhm4z6-hack-club-bot.vercel.app/boycoder.gif" /></a></p>
+<p align="center"><a href="#"><img height = "250" width="400px"alt="Hello, I'm Fyka, I do open source!" src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif" /></a></p>
 
 <h1 align="center">
   <a href="#">
